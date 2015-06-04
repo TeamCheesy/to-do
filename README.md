@@ -1,10 +1,10 @@
 # to-do
 To do-lijst voor SoC
 
-All
+All  
 
 
-[] Post favorite times for live weekly coaching sessions | coaches 
+[] Post favorite times for live weekly coaching sessions | coaches   
 [] Post days and weeks unavailable for coaching | coaches
 
 
