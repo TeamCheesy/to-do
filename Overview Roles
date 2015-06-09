@@ -1,0 +1,55 @@
+Overview | instructions from SoC org
+(copied from email from Anika  @ extended team, Jun 9)
+
+
+
+*** Your To-do Frame**
+
+On the What to expect page you'll find all the aspects of Rails Girls Summer of Code. 
+The most important bit for now is to review your project plan and set up the to-dos for the first week(s) 
+as well as setting up your work flow, communication tools, Slack etc.
+
+We ask you to keep Lieke in the loop of all major project issues and processes 
+such as project plans and changes thereof and 
+grant her access to whatever chat tools you might be using. 
+Additionally, she'll check in with you about once a week. We totally leave it up to you how to arrange this. 
+We did ask GitHub to provide us with free plans for students, but we haven't heard back yet. 
+Lieke will contact you once we have more infos on that.
+
+Please note: A supervisor is NOT a project manager. 
+You're asked to organize your work flow yourselves incl. chat tools, issue trackers, etc., but, 
+of course, can always ask her when you have questions or stumble upon problems.
+
+*** Who's doing what? ***
+
+Since we know that the involved roles might be a bit overwhelming to digest, 
+here's a crisp summary who's responsible for what in your team:
+
+* Students *
+
+Roos & Maud: 
+Learn, learn, learn :) and work on the project issues. 
+Organize your work flow and other todos.
+
+* Coaches *
+
+André, Hans, Thijs, Yorick, Shannon: 
+Work side-to-side with the students, explain code, methods, tools etc. 
+Advise in setting up work flow if necessary. 
+Plus, advise on the overall project plan and goals (milestones) and have the say in issues to work on. 
+Please keep in mind: Learning is more important for us than building tons of features.
+
+* Mentor(s) *
+Carsten, Sara and Laura: 
+You are the project maintainer(s)/ core contributers and should advise on the project plan, 
+the issues the students should work on and are the experts of exercism, 
+who can be contacted for all project-related things and keep an eye on the roadmap. 
+Carsten will be your first contact person, but since he's expecting a kid any time soon, 
+Sara and Laura will jump in whenever he's unavailable :)
+
+* Supervisor *
+Lieke: Keep track of the process and be the contact person for all things organizational.
+
+I'll let you take it from here and wish you a great and successful Rails Girls Summer of Code!
+Happy Coding!
+Anika
